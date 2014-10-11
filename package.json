@@ -1,0 +1,15 @@
+{
+  "name": "mongopromise",
+  "version": "0.1.0",
+  "description": "a Promise Wrapper for mongo-native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Campos",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^1.4.19",
+    "q": "^1.0.1"
+  }
+}
